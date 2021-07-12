@@ -1,5 +1,5 @@
-## YEDIT text editor
-A FOSS text editor (unfinished)
+## Bear-Edit text editor
+A FOSS text editor (unfinished) forked from [here](https://github.com/MESYETI/yedit)
 ## Compile
 ```sh
 chmod +x make.sh
